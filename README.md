@@ -1,5 +1,9 @@
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
+This is a template to create static sites using Hugo and Wowchemy.
+
+So far, it is just a clone of https://github.com/wowchemy/starter-hugo-research-group but with time, it should be diverging.
+
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
